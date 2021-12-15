@@ -17,3 +17,6 @@ https://www.facebook.com/people/Manus-Crypt/100073758036460/
 
 And also on Twitter:
 https://twitter.com/ManuscryptGame
+
+And our offical Telegram bot (English and Russian language support):
+@ManusCryptGame_bot
